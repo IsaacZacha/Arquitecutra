@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NeuroLog - Registro Diario para Niños con NEE
 
 ## 📋 Descripción
@@ -118,3 +119,6 @@ Si encuentras algún problema o tienes preguntas:
 ---
 
 **Nota:** NeuroLog está diseñado para complementar, no reemplazar, la evaluación profesional especializada.
+=======
+# Arquitecutra
+>>>>>>> 1a467979fa2f445aeda19c1c5ae17c1861190bc4
